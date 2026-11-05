@@ -1,0 +1,15 @@
+{
+  "repository": "module-music-export-mastering-flutter",
+  "capabilityKey": "liberusoftware/music-export-mastering",
+  "presentation": "mobile-flutter",
+  "package": "module_music_export_mastering_flutter",
+  "foundation": "module-boilerplate-flutter",
+  "foundationCommit": "ff95e801183203fd3ab58993d7793fbae549151e",
+  "canonicalPlan": "projects/music/nextjs/export-mastering.md",
+  "presentationPlan": "projects/music/flutter/export-mastering.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "music"
+  ]
+}
